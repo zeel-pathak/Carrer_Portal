@@ -3,4 +3,4 @@ This repo has the carrer portal link of top software companies, so that it becom
 
 > A
 
-<a href="https://account.amazon.jobs/en-GB"> <img src="Images/amazon.png" width="50" height="20" /> </a>&nbsp; &nbsp;  [Amazon](https://account.amazon.jobs/en-GB)
+# [Amazon](https://account.amazon.jobs/en-GB) &nbsp; &nbsp; <a href="https://account.amazon.jobs/en-GB"> <img src="Images/amazon.png" width="80" height="30" /> </a>  
