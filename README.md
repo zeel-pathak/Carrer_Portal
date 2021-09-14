@@ -8,3 +8,8 @@ This repo has the carrer portal link of top software companies, so that it becom
 > G
 
 # [Google](https://careers.google.com/) &nbsp; &nbsp; <a href="https://careers.google.com/"> <img src="Images/G/google.png" width="90" height="40" /> </a>  
+
+
+> M
+
+# [Microsoft](https://careers.microsoft.com/us/en) &nbsp; &nbsp; <a href="https://careers.microsoft.com/us/en"> <img src="Images/M/Microsoft.png" width="90" height="40" /> </a>  
